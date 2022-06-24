@@ -25,5 +25,59 @@
                 "duration": 120
             }
         ]
+    },
+    {
+        "slug": "chest-workout-simple-12321312",
+        "name": "Chest Workout Simple",
+        "duration": 345,
+        "difficulty": "easy",
+        "sequence": [
+            {
+                "slug": "pushups-213213712",
+                "name": "Pushups",
+                "type": "exercise",
+                "reps": 15,
+                "duration": 60
+            },
+            {
+                "slug": "break-213213412",
+                "name": "Break",
+                "type": "break",
+                "duration": 15
+            },
+            {
+                "slug": "lower-back-stretch-213213212",
+                "name": "Lower Back Stretch",
+                "type": "stretch",
+                "duration": 120
+            }
+        ]
+    },
+    {
+        "slug": "leg-workout-simple-12321312",
+        "name": "Leg Workout Simple",
+        "duration": 345,
+        "difficulty": "easy",
+        "sequence": [
+            {
+                "slug": "pushups-213213712",
+                "name": "Pushups",
+                "type": "exercise",
+                "reps": 15,
+                "duration": 60
+            },
+            {
+                "slug": "break-213213412",
+                "name": "Break",
+                "type": "break",
+                "duration": 15
+            },
+            {
+                "slug": "lower-back-stretch-213213212",
+                "name": "Lower Back Stretch",
+                "type": "stretch",
+                "duration": 120
+            }
+        ]
     }
 ]
